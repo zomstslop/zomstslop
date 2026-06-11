@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img width="460" height="300" src="https://cdn.discordapp.com/attachments/1335506305259012128/1514512867926474893/a4bb8494-f243-4ec8-bde7-125e56e1986a.jpg?ex=6a2ba386&is=6a2a5206&hm=de31b4def03ff1a4df69175e57dd401c65ab50948511da26ebf15c794983cd3d&/460/300">
+</p>
 
 <!--
 **peakcub/peakcub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
