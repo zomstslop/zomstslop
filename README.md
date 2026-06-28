@@ -1,6 +1,6 @@
-This is normal text with some $\color{purple}{\text{Oh my, sweet spark!}}$ inside.
+# $\color{purple}{\text{Oh my, sweet spark!}}$ 
 
-Alternatively, you can use a hex code: $\color{D79FFF}{\Oh my, sweet spark!{Oh my, sweet spark!}}$
+
 
 
 
