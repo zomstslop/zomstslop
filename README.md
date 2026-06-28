@@ -1,4 +1,4 @@
-This is normal text with some $\color{cyan}{\text{bright cyan text}}$ inside.
+This is normal text with some $\color{purple}{\text{Oh my, sweet spark!}}$ inside.
 
 Alternatively, you can use a hex code: $\color{D79FFF}{\Oh my, sweet spark!{Oh my, sweet spark!}}$
 
