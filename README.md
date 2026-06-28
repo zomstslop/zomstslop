@@ -1,4 +1,4 @@
-# ***$\color{purple}{\text{Oh my, sweet spark!}}$***
+# *$\color{purple}{\text{Oh my, sweet spark!}}$*
 
 
 
