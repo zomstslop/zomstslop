@@ -3,7 +3,7 @@
 </p>
 
   <p align="center">
-  <img width="200" height="100" src="https://cdn.discordapp.com/attachments/1282985399051878441/1520302455479341058/HnVideoEditor_2026_06_27_133854723.gif?ex=6a40b37f&is=6a3f61ff&hm=5ad5b24b13e7908f236cc2c73947f2e54f9f45614557f380910b9835ed371c6e&/760/600">
+  <img width="200" height="100" src="https://cdn.discordapp.com/attachments/1282985399051878441/1520792509251452979/HnVideoEditor_2026_06_28_220543740.gif?ex=6a427be5&is=6a412a65&hm=e961eb366cb66d212b67b594d9caf0166fdb9d21f88209347b4f6cffa7d2c35c&/760/600">
 </p> 
 
   <p align="center">
