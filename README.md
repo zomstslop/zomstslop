@@ -1,6 +1,6 @@
 This is normal text with some $\color{cyan}{\text{bright cyan text}}$ inside.
 
-Alternatively, you can use a hex code: $\color{D79FFF}{\text{Oh my, sweet spark!}}$
+Alternatively, you can use a hex code: $\color{D79FFF}{\Oh my, sweet spark!{Oh my, sweet spark!}}$
 
 
 
