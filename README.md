@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤ ㅤㅤㅤ  ㅤ   ㅤ  $\color{purple}{\text{Oh my, sweet spark!}}$
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤ ㅤㅤㅤ  ㅤㅤ  $\color{purple}{\text{Oh my, sweet spark!}}$
 
 
 
